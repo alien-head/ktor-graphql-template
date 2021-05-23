@@ -1,0 +1,9 @@
+*.iml
+.idea
+*.ips
+build
+out
+.gradle
+.DS_Store
+stale_outputs_checked
+**/requirements.lock
